@@ -1,0 +1,1 @@
+# 오늘 뭐 먹지?\n\n실행:\n```bash\npip install -r requirements.txt\nstreamlit run streamlit_app.py\n```\n\n식당/메뉴/혼잡도 값은 시연용 샘플입니다. 제보는 세션 한정이며 실제 공유형 실시간 서비스에는 DB와 데이터 연동이 필요합니다.\n
